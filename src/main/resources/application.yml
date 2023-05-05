@@ -15,5 +15,4 @@ eureka:
 
 logging:
   file:
-    name: service-discovery.log
-    path: .
+    name: logs/service-discovery.log
